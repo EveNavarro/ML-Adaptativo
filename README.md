@@ -1,4 +1,4 @@
-# MercadoLiebre 3 - Diseño Adaptativo [Pdf](https://github.com/EveNavarro/mercadoLibre-Flexbox)
+# MercadoLiebre 3 - Diseño Adaptativo [Pdf](https://github.com/EveNavarro/mercadoLibre-Flexbox/blob/master/Ejercitacion%20pdf/pdf%20-%20%20Ejercitaci%C3%B3n%20Dise%C3%B1o%20adaptativo.pdf)
 MÓDULO 4: Anatomía de un sitio web
 
 [MercadoLiebre 1 - Maquetado](https://github.com/EveNavarro/mercadoLiebre-Maquetado)
